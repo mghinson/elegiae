@@ -1,0 +1,431 @@
+3.10.3
+
+Richards: natalis nostrae signum risere puellae | Dis = 0.711702938455
+Heinsius: natalis nostrae signum visere puellae | Dis = 0.670852555805
+Heyworth: natalis nostrae signum misere puellae | Dis = 0.869968502519
+
+3.10.30
+
+Heinsius: noctis et instituet sacra sequestra Venus | Dis = 0.9053838235
+Markland: noctis et instituet sacra marita Venus | Dis = 0.712935805278
+Heyworth: noctis et instituet sacra ministra Venus | Dis = 0.772635038986
+
+3.10.5-6
+
+Heyworth: transeat hic sine nube dies stent aere venti | Dis = 0.778448162984
+Bonazzi: transeat hic sine nube dies stent flamina venti | Dis = 0.642760963471
+
+3.12.14.
+
+Heyworth: sic redeunt illis qui cecidere locis | Dis = 0.675905359212
+Baehrens: si redeunt illos qui tetigere locos | Dis = 1.07046910559
+
+3.12.7
+
+Heyworth: tu tamen immunda tectus vesane lacerna | Dis = 0.789629617839
+Richmond: tu tamen intexta tectus vesane lacerna | Dis = 0.523907549813
+Bonazzi: tu tamen interea tectus vesane lacerna | Dis = 0.772975087285
+LL: tu tamen iniecta tectus vesane lacerna | Dis = 0.53867813341
+
+3.13.18
+
+Broekhuyzen: namque ubi mortifero iactast fax ultima lecto uxorum positis stat pia turba comis et certamen habent leti quae viva sequatur coniugium | Dis = 0.494978958102
+Heyworth: namque ubi mortifero iactast fax ultima lecto uxorum fusis stat pia turba comis et certamen habent leti quae viva sequatur coniugium | Dis = 0.571814572228
+Bonazzi: namque ubi mortifero iactast fax ultima lecto uxorum passis stat pia turba comis et certamen habent leti quae viva sequatur coniugium | Dis = 0.532200608992
+Francius: namque ubi mortifero iactast fax ultima lecto uxorum tonsis stat pia turba comis et certamen habent leti quae viva sequatur coniugium | Dis = 0.764074403975
+
+3.13.50
+
+Heinsius: aurum lex sequitur mox sine lege furor | Dis = 0.888038875719
+Heyworth: aurum lex sequitur mox sine lege pudor | Dis = 0.688611486454
+
+3.13.65-66
+
+Barber: ille furor patriae foret utilis ille parenti experta est veros irrita lingua deos | Dis = 0.700723630617
+Fontein: ille furor patriae vilis fuit ille parenti experta est veros diruta lingua deos | Dis = 0.729433041882
+
+3.14.25
+
+Heyworth: nullo praemisso de rebus tute loquaris | Dis = 1.01573967877
+Fruter: nullo promisso de rebus tute loquaris | Dis = 0.771780445737
+
+3.14.4
+
+Heyworth: quod non infames exercet corpore ludos inter luctantes nuda puella viros | Dis = 0.797679269078
+RMHenry: quod non infames exercet corporis artes inter luctantes nuda puella viros | Dis = 0.656958456115
+Richards: quod non infames exercet corpore luctas inter luctantes nuda puella viros | Dis = 0.709377762
+
+3.14.8
+
+Heyworth: et patitur duro vulnera pancratio | Dis = 0.656786735312
+Heinsius: et patitur crudo vulnera pancratio | Dis = 0.643681375526
+
+3.14.9
+
+Gruter: nunc ligat ad caestum candentia bracchia loris missile nunc disci pondus in orbe rotat | Dis = 0.445486105809
+Dorville: nunc ligat ad caestum flaventia bracchia loris missile nunc disci pondus in orbe rotat | Dis = 0.469007138644
+Heyworth: nunc ligat ad caestum gaudentia bracchia loris missile nunc disci pondus in orbe rotat | Dis = 0.654477544322
+Burman: nunc ligat ad caestum splendentia bracchia loris missile nunc disci pondus in orbe rotat | Dis = 0.653445819539
+
+3.15.13
+
+Volpi: a quotiens pulchros traxit regina capillos molliaque immitis fixit in ora manus | Dis = 0.484027292946
+Heyworth: a quotiens pulchros vulsit regina capillos molliaque immitis fixit in ora manus | Dis = 0.371036095946
+Heinsius: a quotiens pulchros carpsit regina capillos molliaque immitis fixit in ora manus | Dis = 0.444319743631
+
+3.15.17
+
+Heinsius: saepe illa immundis passa est cubitare tenebris | Dis = 0.723141280092
+Heyworth: saepe illam immundis passa est habitare tenebris | Dis = 0.840858387581
+Muller: saepe illam immundis passa est latitare tenebris | Dis = 0.769393318759
+
+3.15.3
+
+Gebhard: ut mihi praetexti pudor est ablatus amictus | Dis = 0.706625864127
+Heyworth: ut mihi praetexti pudor est relevatus amictus | Dis = 0.792332054622
+Barber: ut mihi praetexti pudor est amotus amictus | Dis = 0.74133894941
+Sandstrom: ut mihi praetexti pudor est laxatus amictus | Dis = 0.647623156064
+Damste: ut mihi praetexti pudor est exutus amictus | Dis = 0.495464420884
+Rothstein: ut mihi praetexti pudor est mutatus amictus | Dis = 0.597746519561
+Richmond: ut mihi praetexti pudor est violatus amictus | Dis = 0.559919796726
+
+3.15.45
+
+Markland: fabula nulla tuas de nobis concitet iras | Dis = 0.463059284873
+Heyworth: fabula nulla tuas de nobis concitet aures | Dis = 0.716554086855
+
+3.15.8
+
+Heinsius: vix memini nobis verba fuisse decem | Dis = 0.88546731741
+Heyworth: vix memini nobis verba coisse decem | Dis = 0.861851879703
+
+3.16.16
+
+Francius: ipse Amor accensas concutit ante faces | Dis = 0.667921098047
+Heinsius: ipse Amor accensas excutit ante faces | Dis = 0.584961522671
+
+3.16.9
+
+Richmond: peccaram semel et totum sum tortus in annum | Dis = 0.900825251388
+Phillimore: peccaram semel et totum sum carptus in annum | Dis = 0.851370644321
+Heyworth: peccaram semel et totum sum pulsus in annum | Dis = 0.899938312492
+Palmer: peccaram semel et totum sum tusus in annum | Dis = 0.976906718785
+
+3.17.2
+
+Postgate: da mihi placato vela secunda pater | Dis = 0.735462475565
+Burman: da mihi lymphato vela secunda pater | Dis = 0.671170397612
+Heyworth: da mihi pacato vela secunda pater | Dis = 0.79839205799
+
+3.17.3
+
+Broekhuyzen: tu potes insanae Veneris compescere fluctus | Dis = 0.531387451208
+Heyworth: tu potes insanae Veneris compescere flatus | Dis = 0.64596886868
+Palmer: tu potes insanae Veneris compescere flammam | Dis = 0.652196904454
+
+3.17.32
+
+Heyworth: levis odorato cervix manabit olivo et feries nudos veste fluente pedes | Dis = 0.457616562417
+Heinsius: levis odorato cervix manabit olivo et feries udos veste fluente pedes | Dis = 0.319344229417
+
+3.18.1
+
+Heinsius: Obvius ab umbroso qua ludit pontus Averno | Dis = 0.787145145795
+Barber: Clausus ab umbroso qua tendit pontus Averno | Dis = 0.543502495297
+LL: Clausus ab umbroso qua tundit pontus Averno | Dis = 0.764654205478
+
+3.19.4
+
+Heyworth: vos ubi contempti rupistis frena pudoris nescitis captae mentis habere modum | Dis = 0.625185695746
+Rossberg: vos ubi contempti rupistis frena pudoris nescitis cupidae mentis habere modum | Dis = 0.460590105378
+Richmond: vos ubi contempti rupistis frena pudoris nescitis coeptae mentis habere modum | Dis = 0.622902587647
+Heinsius: vos ubi contempti rupistis frena pudoris nescitis castae mentis habere modum | Dis = 0.576654384812
+
+3.19.9
+
+Fontein: quam possit vestros quisquam restringere cursus et rabidae stimulos frangere nequitiae | Dis = 0.650060765505
+Heyworth: quam possit vestros quisquam reprehendere cursus et rabidae stimulos frangere nequitiae | Dis = 0.897374035137
+Volscus: quam possit vestros quisquam deprendere cursus et rabidae stimulos frangere nequitiae | Dis = 0.483157467369
+
+3.2.24
+
+Heinsius: aut illis flamma aut imber subducet honores ventorum aut tacito pondere victa ruent | Dis = 0.652233183252
+Heyworth: aut illis flamma aut imber subducet honores annorum aut tacito pondere victa ruent | Dis = 0.908581315812
+Santen: aut illis flamma aut imber subducet honores annosa aut tacito pondere victa ruent | Dis = 0.548770350591
+
+3.20.15
+
+Heyworth: foedera sunt ponenda prius signandaque iura | Dis = 0.524178829277
+Heinsius: foedera sunt condenda prius signandaque iura | Dis = 0.734497788252
+
+3.20.17
+
+Heyworth: haec Amor ipse suo constringet pignora signo | Dis = 0.880355819706
+Fontein: haec Amor ipse suo confirmet pignora signo | Dis = 1.0071549354
+
+3.20.22
+
+Heyworth: non habet ultores nox vigilata deos | Dis = 0.646444047207
+Heinsius: non habet ultores nox violata deos | Dis = 0.662909597103
+
+3.23.17
+
+Bonazzi: et quaecumque donans reperit non stulta puella | Dis = 0.74366678554
+Heyworth: et quaecumque volens reperit non stulta puella | Dis = 0.792519198445
+Heinsius: et quaecumque doli reperit non stulta puella | Dis = 0.794367514475
+Baehrens: et quaecumque calens reperit non stulta puella | Dis = 0.805830888194
+Guyet: et quaecumque solens reperit non stulta puella | Dis = 0.671459635441
+
+3.24.19
+
+Heyworth: Mens Bona si qua dea es tua me in sacraria dono | Dis = 0.69984858401
+Markland: Mens Bona si qua dea es tua me in sacraria pono | Dis = 0.548356166813
+Heinsius: Mens Bona si qua dea es tua me in sacraria condo | Dis = 0.773751755495
+
+3.3.21
+
+Heyworth: cur tua praescriptos evecta est pagina gyros | Dis = 0.831719220332
+Bonazzi: cur tua per scriptos evecta est pagina gyros | Dis = 0.813963885798
+
+3.3.31
+
+Lachmann: et Veneris dominae volucres sua turba columbae | Dis = 0.384777288514
+Sandstrom: et Veneris dominae famularis turba columbae | Dis = 0.724484152674
+
+3.3.49
+
+Heinsius: ut per te clausas sciat exorare puellas qui volet austeros arte ferire viros | Dis = 0.750266255841
+Heyworth: ut per te clausas sciat excantare puellas qui volet austeros arte ferire viros | Dis = 0.458560016268
+Livincius: ut per te clausas sciat expugnare puellas qui volet austeros arte ferire viros | Dis = 0.86982561233
+
+3.5.1
+
+Heyworth: Pacis amor deus est pacem veneramur amantes | Dis = 0.704248573434
+Heinsius: Pacis amor deus est pacem venamur amantes | Dis = 0.860138181439
+
+3.5.18
+
+Heyworth: optima mors carpta quae venit ante die | Dis = 0.894768528153
+Livineius: optima mors rara quae venit ante die | Dis = 0.961563234843
+Heinsius: optima mors propera quae venit ante die | Dis = 0.839822392099
+Tremenheere: optima mors parcae quae venit ante die | Dis = 0.948497919627
+Guyet: optima mors tarda quae venit ante die | Dis = 0.92911191815
+
+3.5.29
+
+Cornelissen: unde salo spirent venti quid flamine captet Eurus | Dis = 0.500160984536
+Heyworth: unde salo superant venti quid flamine captet Eurus | Dis = 0.838093592828
+
+3.6.28
+
+Housman: et lecta haud sectis anguibus ossa trahunt | Dis = 0.494439824474
+LL: et lecta exsuctis anguibus ossa trahunt | Dis = 0.527126506218
+Heinsius: et lecta enectis anguibus ossa trahunt | Dis = 0.540979384951
+
+3.6.29
+
+LL: et strigis inventae per busta iacentia plumae | Dis = 0.389811467425
+Heinsius: et strigis inventae per busta tepentia plumae | Dis = 0.598876167281
+Palmier: et strigis inventae per busta tacentia plumae | Dis = 0.712351167711
+Heyworth: et strigis inventae per busta recentia plumae | Dis = 0.676130570064
+
+3.6.30
+
+Lachmann: vinclaque funesto lanea vitta toro | Dis = 0.616631483138
+Heyworth: raptaque funesto lanea vitta toro | Dis = 0.523739191856
+LL: cinctaque funesto lanea vitta toro | Dis = 0.416948924156
+Havet: tincta et funesto lanea vitta toro | Dis = 0.455523785832
+
+3.6.40
+
+Housman: iurabo bis sex integer ipse dies | Dis = 0.477934494212
+Bonazzi: iurabo bis sex puriter esse dies | Dis = 0.826581934898
+Bonazzi: iurabo bis sex puriter esse dies | Dis = 0.712549821701
+
+3.6.8
+
+Heyworth: incipe suspensis auribus ista bibam | Dis = 0.817552198036
+Heinsius: incipe suspensis auribus hausta bibam | Dis = 0.396215782441
+
+3.8.1
+
+Heyworth: Dulcis ad hesternas fuerat mihi rixa lucernas | Dis = 0.807709317609
+Heinsius: iugis ad hesternas fuerat mihi rixa lucernas | Dis = 0.875256347152
+Santen: tristis ad hesternas fuerat mihi rixa lucernas | Dis = 0.723157874232
+
+3.9.24
+
+Heyworth: et liceat medio ponere iura foro | Dis = 0.349139106206
+Heinsius: et liceat medio condere iura foro | Dis = 0.732240467641
+Ruhnken: et liceat medio promere iura foro | Dis = 0.826319861666
+
+4.1.135
+
+Cornelissen: at tu finge elegos sollers opus haec tua castra | Dis = 0.650861732638
+Heyworth: at tu finge elegos fallax opus haec tua castra | Dis = 0.698697105954
+Broekhuyzen: at tu finge elegos felix opus haec tua castra | Dis = 0.746788363496
+
+4.1.28
+
+Heyworth: miscebant usta proelia nuda sude | Dis = 0.496924458391
+de Rooy: miscebant usta proelia cruda sude | Dis = 0.456416921004
+Baehrens: miscebant usta proelia ficta sude | Dis = 0.87685554931
+Cornelissen: miscebant usta proelia tuta sude | Dis = 0.707256535338
+
+4.1.70
+
+Heyworth: has meus ad metas sudet oportet equus | Dis = 0.542225322325
+Heinsius: has meus ad metas tendat oportet equus | Dis = 0.575271768058
+
+4.10.29
+
+Heyworth: nunc intra muros pastoris bucina lenti cantat | Dis = 0.708207541679
+Itali: nunc intra muros pastoris bucina laeti cantat | Dis = 0.595595831416
+
+4.11.102
+
+Burman: cuius honoratis ossa petantur auis | Dis = 0.737540993372
+Heyworth: cuius honoratis ossa uehantur auis | Dis = 0.80474159406
+Heinsius: cuius honoratis ossa fruantur auis | Dis = 0.926630749303
+
+4.11.12
+
+Boot: profuit aut animae pignora tanta meae | Dis = 0.87861389971
+Heinsius: profuit aut formae pignora tanta meae | Dis = 0.817970887822
+Heyworth: profuit aut famae pignora tanta meae | Dis = 0.784990824438
+
+4.11.38
+
+Werburg: sub quorum titulis Africa tosta iaces | Dis = 0.874832264268
+Munro: sub quorum titulis Africa tonsa iaces | Dis = 0.818666461946
+Scaliger: sub quorum titulis Africa tanta iaces | Dis = 0.64297700161
+Heyworth: sub quorum titulis Africa tunsa iaces | Dis = 0.880131956404
+
+4.11.4
+
+Peerlkamp: non exorando stant adamante serae | Dis = 0.868607015559
+Kuhlewein: non exorando stant adamante vice | Dis = 1.05257118029
+Heyworth: non exorando stant adamante uiae | Dis = 0.872175848647
+Heinsius: non exorando stant adamante fores | Dis = 0.846901417481
+
+4.11.41
+
+Fea: me neque censurae legem metuisse nec ulla | Dis = 0.795597797009
+Peerlkamp: me neque censurae legem movisse nec ulla | Dis = 0.660670815499
+Heinsius: me neque censurae legem soluisse nec ulla | Dis = 0.845369047889
+Heyworth: me neque censurae legem mollisse nec ulla | Dis = 0.958955880192
+
+4.2.42
+
+Heyworth: hortorum in manibus dona probata meis | Dis = 0.985671234084
+Lutjohann: hortorum in manibus dona locata meis | Dis = 0.608143480504
+
+4.2.58
+
+Pocchus: non moror haec spatiis ultima cura meis | Dis = 0.749625919329
+Perreius: non moror haec spatiis ultima cera meis | Dis = 0.943332058909
+Heyworth: non moror haec spatiis ultima creta meis | Dis = 0.586423246068
+
+4.2.62
+
+Heyworth: tellus artifices ne terat osca manus | Dis = 0.597149648532
+Livineius: tellus artifices ne premat osca manus | Dis = 0.468715841132
+
+4.2.9
+
+Heinsius: at campum ille suis stagnum concessit alumnis | Dis = 0.525957758996
+Heyworth: at postquam ille suis stagnum concessit alumnis | Dis = 0.799812794565
+Annius: at tandem ille suis stagnum concessit alumnis | Dis = 0.84518736745
+Ayrmann: at rursum ille suis stagnum concessit alumnis | Dis = 0.848433875109
+
+4.3.13
+
+Livineius: quae mihi deductae fax lumen praetulit illa | Dis = 0.563735780682
+Heyworth: quae mihi deductae fax omen praetulit illa | Dis = 0.730322227657
+
+4.3.41
+
+Heyworth: assidet una soror curis et pallida nutrix | Dis = 0.749823541684
+Livineius: assidet una soror curis et callida nutrix | Dis = 0.91470183972
+
+4.3.64
+
+Bailey: raptave odorato carbasa laxa duci | Dis = 0.540878066152
+Palmer: raptave odorato carbasa picta duci | Dis = 0.577593503999
+Bonazzi: raptave odorato carbasa viva duci | Dis = 0.844105081918
+Heyworth: raptave odorato carbasa lina duci | Dis = 0.550509855799
+
+4.4.40
+
+Polster: candidaque in senos inguina uersa canis | Dis = 0.6843156
+Heyworth: candidaque in saeuos inguina uersa canes | Dis = 0.423196973946
+Burman: candidaque in taetros inguina uersa canis | Dis = 0.571130448752
+Heinsius: candidaque in foedos inguina uersa canis | Dis = 0.897139516136
+
+4.4.47
+
+Huleatt: cras ut rumor ait tota purgabitur urbe | Dis = 0.9393920308
+Bonazzi: cras ut rumor ait tota privabitur urbe | Dis = 1.07620631431
+Heyworth: cras ut rumor ait tota potabitur urbe | Dis = 0.682968876234
+
+4.4.50
+
+Baehrens: quippe iacentes fallaci celat limite semper aquas | Dis = 0.564530961095
+LL: quippe tacentis fallaci celat limite semper aquas | Dis = 0.582777690661
+Fontein: quippe calentes fallaci celat limite semper aquas | Dis = 0.588112714799
+
+4.4.76
+
+Heyworth: cum pagana madent fercula diuitiis | Dis = 0.850231659715
+Heinsius: cum pagana madent fercula fictilibus | Dis = 0.67961551746
+Postgate: cum pagana madent fercula lautitiis | Dis = 0.644828969537
+Canter: cum pagana madent fercula deliciis | Dis = 0.691814454341
+
+4.4.94
+
+Ribbeck: o uigil iniustae praemia fontis habes | Dis = 1.00264846543
+Heyworth: o uigil iniustae praemia sortis habes | Dis = 0.793247579936
+Baehrens: o uigil iniustae praemia sordis habes | Dis = 0.858625014524
+Peerlkamp: o uigil iniustae praemia laudis habes | Dis = 0.660046175503
+
+4.5.72
+
+Heinsius: exsequiae fuerint rari furtiua capilli uincula et immundo squalida mitra situ | Dis = 0.430488780304
+Heyworth: exsequiae fuerint rari furtiua capilli uincula et immundo pallida mitra situ | Dis = 0.481657464676
+
+4.7.2
+
+Heyworth: luridaque extinctos effugit umbra rogos | Dis = 0.609153923535
+Hailer: luridaque erectos effugit umbra rogos | Dis = 0.583433062236
+Heinsius: luridaque exstructos effugit umbra rogos | Dis = 0.76799456406
+
+4.7.38
+
+Heinsius: signet damnatas ignea testa manus | Dis = 0.512591563022
+Scaliger: ducet damnatas ignea testa manus | Dis = 0.737003941708
+Baehrens: vincet damnatas ignea testa manus | Dis = 0.62148445311
+Heyworth: dicet damnatas ignea testa manus | Dis = 0.690716229098
+Guyet: siccet damnatas ignea testa manus | Dis = 0.666789586112
+
+4.8.59
+
+Baehrens: iurgia sopitos turbant elata Quiritis | Dis = 0.638821452339
+LL: lumina sopitos turbant elata Quiritis | Dis = 0.543110632764
+Heyworth: crimina sopitos turbant elata Quiritis | Dis = 0.809854340858
+
+4.8.64
+
+Heyworth: et mea peruersa sauciat ora manu | Dis = 0.973719050862
+Guyet: et mea praeversa sauciat ora manu | Dis = 0.724922310683
+Heinsius: et mea vesana sauciat ora manu | Dis = 0.45416513482
+Burman: et mea formosa sauciat ora manu | Dis = 0.664154929586
+
+4.9.40
+
+Vossianus: et numquam ad varias irrita tela feras | Dis = 0.707983180073
+Hertzberg: et numquam ad tantas irrita tela feras | Dis = 0.66768815045
+Heyworth: et numquam ad notas irrita tela feras | Dis = 0.604031372879
+LL: et numquam ad uastas irrita tela feras | Dis = 0.680722941623
+Heinsius: et numquam ad stratas irrita tela feras | Dis = 0.499281408431
+Senger: et numquam ad iussas irrita tela feras | Dis = 0.640653657582
+

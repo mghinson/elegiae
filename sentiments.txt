@@ -1,0 +1,41 @@
+puer est miser 0
+puer erit amicus 1
+mater pueri est laeta 1
+soror sorori erit misera 0
+pater amor pueri tenet 1
+mater invidiam nuri habet 0
+Natus meus despicatus est 0
+Nata mea amata est ab multis hominibus 1
+Mea marita est pulchra 1
+Maritus meus me odit 1
+pulchra est mea puella 1
+beatus est meus natus 1
+dulcia sunt illa carmina 1
+mei amici blandiores sunt 1
+Illi homines peiores erunt 0
+Illae feminae pessimae sunt 1
+hic puer exosus est 0
+haec puella melior erat 1
+haec puellae optimae sunt 1
+isti pueri pessimi sunt 0
+Odium tui habeo 0
+iram mei habes 0
+Amicitia inter nos erit 1
+Inimicitia inter nos erat 0
+Stultus es 0
+Terribilis erat iste deus 0
+Horribilis est illa dea 0
+Suave est illud carmen 1
+Inferior sunt illi homines 0
+turpes sunt eae leges 0
+formosus erit natus meus 1
+informis est tua puella 0
+iratus erit pater meus ubi illud cognoscit 0
+illa mihi carissima est 1
+hostis patrem meum caedit 0
+multam pecuniam habeo 1
+nullam pecuniam habeo 0 
+tu mihi socius semper eris 1
+vir honestus est 1
+urbem novam deleverunt 0
+

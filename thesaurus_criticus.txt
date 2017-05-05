@@ -1,0 +1,651 @@
+3.1.1
+LL:Callimachi Manes et Coi sacra Philitae, in vestrum, quaeso, me sinite ire nemus.
+Bruining:Callimachi Manes et Coi larva Philitae, in vestrum, quaeso, me sinite ire nemus.
+Fontein:Callimachi Manes et consors umbra Philitae, in vestrum, quaeso, me sinite ire nemus.
+Schrader:Callimachi Manes et Cois care Philitae, in vestrum, quaeso, me sinite ire nemus.
+Baehrens:Callimachi Manes et Coi fata Philitae, in vestrum, quaeso, me sinite ire nemus.
+3.1.3
+LL:primus ego ingredior puro de fonte sacerdos Itala per Graios orgia ferre choros.
+Damste:primus ego adgredior puro de fonte sacerdos Itala per Graios orgia ferre choros.
+Markland:primus ego ingredior vestro de fonte sacerdos Itala per Graios orgia ferre choros.
+Bonazza:primus ego ingredior puro de fonte sacerdos Inula per Graios orgia ferre choros.
+Valckenaer:primus ego ingredior puro de fonte sacerdos Graia per Italicos orgia ferre choros.
+Senger:primus ego ingredior puro de fonte sacerdos Talia per Latios orgia ferre choros.
+Fontein:primus ego ingredior puro de fonte sacerdos Itala per Graios oppida ferre choros.
+3.1.5
+LL:dicite, quo pariter carmen tenuastis in antro, quove pede ingressi? quamve bibistis aquam?
+Gebhard:dicite, quo pariter carmen teruistis in antro, quove pede ingressi? quamve bibistis aquam?
+Bonazzi:dicite, quo pariter carmen trivistis in antro, quove pede ingressi? quamve bibistis aquam?
+3.1.17
+Heyworth:sed, quod pace legas, opus hoc de monte Sororum detulit intacta pagina nostra via.
+Itali ap. L Latinium:sed, quod pace legas, opus hoc de morte futurum detulit intacta pagina nostra via.
+3.1.25
+Heyworth:nam quis equo pulsas abiegno nosceret arces, fluminaque Haemonio comminus isse viro, Idaeum Simoenta Iovis cum prole Scamandro, Hectora per campos ter maculasse rotas?
+Postgate:am quis equo pressas abiegno nosceret arces, fluminaque Haemonio comminus isse viro, Idaeum Simoenta Iovis cum prole Scamandro, Hectora per campos ter maculasse rotas?
+Mahly:am quis equo ruptas abiegno nosceret arces, fluminaque Haemonio comminus isse viro, Idaeum Simoenta Iovis cum prole Scamandro, Hectora per campos ter maculasse rotas?
+3.2.3
+LL:Orphea delenisse feras et concita dicunt 
+Heyworth:Orphea detinuisse feras et concita dicunt 
+Beroaldus:Orpheu, te tenuisse feras et concita dicunt 
+Burman:Orpheu, te mulsisse feras et concita dicunt 
+Volpi:Orpheu, te flexisse feras et concita dicunt 
+Heinsius:Orpheu, te duxisse feras et concita dicunt 
+Harless:Orpheu, te traxisse feras et concita dicunt 
+Kuionel:Orpheu, te lenisse feras et concita dicunt 
+3.2.7
+Heyworth:quin etiam, Polypheme, fera Galatea sub Aetna 
+Wakker:quin etiam, Polypheme, ferox Galatea sub Aetna 
+van Eldik:quin etiam, Polypheme, aures Galatea sub Aetna 
+Palmer:quin etiam, Polypheme, freto Galatea sub Aetna 
+3.2.14
+Heyworth:non operosa rigat Marcius antra liquor;
+Heinsius:non nemorosa rigat Marcius antra liquor;
+Schrader:non operosa rigat Marcius arva liquor;
+3.2.15
+Heyworth:at Musae comites et carmina cara legenti, nec defessa choris Calliopea meis.
+Bonazzi:me, Musae, conitis et carmina cara legenti, nec defessa choris Calliopea meis.
+Lachmann:at Musae comites et carmina grata legenti, nec defessa choris Calliopea meis.
+3.2.24
+Heyworth:aut illis flamma aut imber subducet honores, annorum aut tacito pondere victa ruent.
+Santen:aut illis flamma aut imber subducet honores, annosa aut tacito pondere victa ruent.
+Heinsius:aut illis flamma aut imber subducet honores, ventorum aut tacito pondere victa ruent.
+3.2.25
+Heyworth:at non ingenio quaesitum nomen ab aevo 
+Heinsius:at non ingenii quaesitum nomen Homeri 
+3.3.9
+Heyworth:victricisque moras Fabii pugnamque sinistram Cannensem et versos ad pia vota deos
+Markland:victorisque moram Fabii pugnamque sinistram Cannensem et versos ad pia vota deos
+Heinsius:victricisque moras Fabii pugnamque sinistram Cannarum et versos ad pia vota deos
+3.3.15
+Heyworth:quid tibi cum tali, demens, est flumine? quis te carminis heroi tangere iussit opus?
+Heinsius:quid tibi cum tali, demens, est molimine? quis te carminis heroi tangere iussit epos?
+3.3.21
+Heyworth:cur tua praescriptos evecta est pagina gyros?
+Bonazzi:cur tua per scriptos evecta est pagina gyros?
+3.3.31
+Heyworth:et Veneris dominae volucres, mea turba, columbae 
+Sandstrom:et Veneris dominae famularis turba columbae 
+Lachmann:et Veneris dominae volucres, sua turba, columbae 
+Bonazzi:et Veneris dominae volucres, veturba, columbae 
+3.3.33
+Heyworth:diversaeque novem sortitae iura Puellae
+Heinsius:et diversa novem sortitae iura Puellae e
+Fontein:dispersaeque novem sortitae iura Puellae
+Baehrens:Divorseque novem sortitae iura Puellae 
+3.3.48
+Heyworth:quippe coronatos alienum ad limen amantes nocturnaeque canes ebria signa morae
+Markland:quippe coronatos alienum ad limen amantes nocturnaeque faces ebria signa morae
+Burman:quippe coronatos alienum ad limen amantes nocturnaeque canes ebria signa viae
+3.3.49
+Heyworth:ut per te clausas sciat excantare puellas, qui volet austeros arte ferire viros.
+Heinsius:ut per te clausas sciat exorare puellas, qui volet austeros arte ferire viros.
+Livincius:ut per te clausas sciat expugnare puellas, qui volet austeros arte ferire viros.
+Gebhard:ut per te clausas sciat externare puellas, qui volet austeros arte ferire viros.
+3.4.4
+Heyworth:Tigris et Euphrates sub tua iura fluent;
+Heinsius:Tigris et Euphrates sub nova iura fluent;
+Bonazzi:Tigris et Euphrates subruta iura fluent;
+3.4.6
+Heyworth:Assuescent Latio Partha tropaea Iovi
+Slothouwer:Adsurgent Latio Partha tropaea Iovi
+Fontein:Accedent Latio Partha tropaea Iovi
+Baehrens:Adcrescent Latio Partha tropaea Iovi
+3.5.1
+Heyworth:Pacis amor deus est; pacem veneramur amantes
+Heinsius:Pacis amor deus est; pacem venamur amantes
+3.5.6
+Heyworth:nec mixta aera paro clade, Corinthe, tua.
+Acidalius:nec misera aera paro clade, Corinthe, tua.
+Ruhnken:nec mista aera paro clade, Corinthe, tua.
+Palmer:nec mira aera paro clade, Corinthe, tua.
+3.5.9
+Heyworth:corpora disponens mentem non vidit in arto
+Baehrens:corpora disponens mendum non vidit in arto
+Heinsius:corpora disponens mentem non addidit arti
+Fontein:corpora disponens mentem non fudit in artus
+3.5.18
+Heyworth:optima mors carpta quae venit ante die
+Livineius:optima mors rara quae venit ante die
+Guyet:optima mors tarda quae venit ante die
+Heinsius:optima mors propera quae venit ante die
+Lachmann:optima mors Parcae quae venit ante die
+Tremenheere:optima mors parcae quae venit ante die
+3.5.29
+Heyworth:unde salo superant venti, quid flamine captet Eurus
+Cornelissen:unde salo spirent venti, quid flamine captet Eurus
+3.5.35
+Heyworth:cur serus versare boves et plaustra Bootes
+Scaliger:cur segnis versare boves et claustra Bootes
+Leo:cur serus versare boves Bootes flammea plostra
+Rothstein:cur serus versare boves it flamma Bootae
+3.6.1
+Heyworth:dic mihi de nostra quae sensti vera puella
+Wassenbergh:dic mihi de nostra quaerenti vera puella
+3.6.2
+Heyworth:sic tibi sint dominae, Lygdame, dempta iuga.
+Volscus:sic tibi sint dominae, Lygdame, lenta iuga.
+3.6.8
+Heyworth:incipe suspensis auribus ista bibam
+Heinsius:incipe suspensis auribus hausta bibam
+3.6.21/22
+Heyworth:et qualem nolo dicere habere domi?
+Wassenbergh:Aequalemve ulla dicere habere domo?
+Lachmann:Aequalem nulla cui sit habere domo?
+Palmer: Et qualem nolo dicere amare domo
+3.6.27
+Heyworth:illum turgentis sanie portenta rubetae
+Heinsius:illum turgentis sanie prosecta rubetae
+Markland:illum turgentis sanie tormenta rubetae
+3.6.28
+LL:et lecta exsuctis anguibus ossa trahunt
+Heyworth:et lecta exsucis anguibus ossa trahunt
+Heinsius:et lecta enectis anguibus ossa trahunt
+Burman:et lecta exuctis anguibus ossa trahunt
+Housman:et lecta haud sectis anguibus ossa trahunt
+Hosius:et lecta extinctis inguibus ossa trahunt
+3.6.29
+LL:et strigis inventae per busta iacentia plumae
+Heyworth:et strigis inventae per busta recentia plumae
+Palmier:et strigis inventae per busta tacentia plumae
+Heinsius:et strigis inventae per busta tepentia plumae
+3.6.30
+LL:cinctaque funesto lanea vitta toro.
+Heyworth:raptaque funesto lanea vitta toro.
+Lachmann:vinclaque funesto lanea vitta toro.
+Havet:tincta et funesto lanea vitta toro.
+Smyth:demptaque funesto lanea vitta toro.
+3.6.40
+Heyworth:iurabo bis sex integer esse dies.
+Heinsius:iurato bis sex integer esse dies.
+Markland:iurato bis sex integer esse dies.
+Bonazzi:iurabo bis sex puriter esse dies.
+Housman:iurabo bis sex integer ipse dies.
+3.8.1
+Heyworth:Dulcis ad hesternas fuerat mihi rixa lucernas
+Heinsius:iugis ad hesternas fuerat mihi rixa lucernas
+Santen:tristis ad hesternas fuerat mihi rixa lucernas
+3.8.3-4
+Heyworth:cum furibunda mero mensam propellis et in me 
+Burman:cum furibunda mero mensam propellis et in me 
+Palmer:cum furibunda mero mensam propellis et in me
+3.9.12
+LL:Parrhasius parva vindicat arte locum
+Heyworth:Parrhasius parva vindicat arte iocum
+Scaliger:Parrhasius priva vindicat arte locum
+Wakker:Parrhasius pulchri vindicat arte locum
+3.9.13
+Heyworth:argumenta magis sunt Mentoris addita formae
+Fruter:argumenta magis sunt Mentoris abdita formae
+Postgate:argumenta magis sunt Mentoris inclita formae
+Palmer:argumenta magis sunt Mentoris abdita fama
+3.9.17
+LL:est quibus Eleae concurrit palma quadrigae
+Heyworth:est quibus Eleae contingit palma quadrigae
+Heinsius:est quibus Eleae concernit palma quadrigae
+Fontein:est quibus Eleae consurgit palma quadrigae
+Alton:est quibus Eleae confertur palma quadrigae,
+3.9.21-22
+Heyworth:at tua, Maecenas, vitae praecepta recepi, cogor et exemplis te superare tuis.
+Heinsius:at tua, Maecenas, vitae praecepta recepi, conor et exemplis te superare tuis.
+3.9.24
+Heyworth:et liceat medio ponere iura foro
+Ruhnken:et liceat medio promere iura foro
+Heinsius:et liceat medio condere iura foro
+3.9.25
+Heyworth:vel tibi Medorum pugnaces ire per arcus
+Damste:vel lue Medorum pugnaces ire per arcus
+Phillimore:vel liceat medio pugnaces ire per arcus
+vel tibi Medorum pugnatos ire per arcus
+Markland:vel tibi Medorum pugnaces ire per hastas
+Lachmann:vel tibi Medorum pugnaces ire per enses
+3.9.37
+LL:non flebo in cineres arcem sedisse paternos Cadmi nec semper proelia clade pari;
+Heyworth:non flebo in cineres arcem sedisse tepentes Cadmi nec semper proelia clade pari;
+Enk:non flebo in cineres arces sedisse paternas Cadmi nec semper proelia clade pari;
+Heinsius:non flebo in cineres arcem sidisse paternam Cadmi nec semper proelia clade pari;
+Dousa:non flebo in cineres arcem cessisse paternos Cadmi nec semper proelia clade pari;
+Postgate:non flebo in cineres arcem sedisse repentes Cadmi nec semper proelia clade pari;
+3.9.44
+Heyworth:inter Callimachi sat erit placuisse libellos et cecinisse modis, Coe poeta, tuis.
+Scaliger:inter Callimachi sat erit placuisse libellos et cecinisse modis, pure poeta, tuis.
+Scriverius:inter Callimachi sat erit placuisse libellos et cecinisse modis, Dore poeta, tuis.
+Ayrmann:inter Callimachi sat erit placuisse libellos et cecinisse modis, clare poeta, tuis.
+3.9.60
+LL:hoc mihi, Maecenas, laudis concedis, et a te est quod ferar in partis ipse fuisse tuas.
+Heyworth:nunc mihi, Maecenas, laudis concedis, et a te est quod ferar in partis ipse fuisse tuas.
+Faltin:hoc mihi, Maecenas, laudis concedis, et a te est quod ferar in partis ipse ruisse tuas.
+Ayrmann:hoc mihi, Maecenas, laudis concedis, et a te est quod ferar in partis lentius isse tuas.
+3.10.1-2
+LL:Mirabar, quidnam visissent mane Camenae
+Heyworth:Mirabar, quidnam rississent mane Camenae
+Livineius:Mirabar, quidnam iusissent mane Camenae,
+Heinsius:Mirabar, quidnam visissent mane Camenae
+3.10.3
+Heyworth:natalis nostrae signum misere puellae
+Heinsius:natalis nostrae signum visere puellae
+Richards:natalis nostrae signum risere puellae
+3.10.5-6
+Heyworth:transeat hic sine nube dies, stent aere venti
+Bonazzi:transeat hic sine nube dies, stent flamina venti,.
+3.10.30
+Heyworth:noctis et instituet sacra ministra Venus
+Heinsius:noctis et instituet sacra sequestra Venus
+Markland:noctis et instituet sacra marita Venus
+3.12.7
+LL:tu tamen iniecta tectus, vesane, lacerna
+Heyworth:tu tamen immunda tectus, vesane, lacerna
+Richmond:tu tamen intexta tectus, vesane, lacerna
+Bonazzi:tu tamen interea tectus, vesane, lacerna
+3.12.14.
+Heyworth:sic redeunt illis qui cecidere locis.
+Baehrens:si redeunt, illos qui tetigere locos.
+3.12.17-18
+Heyworth:quid faciet nullo munita puella marito, cum sit luxuriae Roma magistra suae?
+Scaliger:quid faciet nullo munita puella munita, cum sit luxuriae norma magistra suae?
+quid faciet nullo munita puella munita, cum sit luxuriae forma magistra suae?
+Fontein:quid faciet nullo munita puella munita, cum sit luxuriae sola magistra suae?
+3.12.25
+Heyworth:castra decem annorum, et Ciconum mors, Ismara capta
+Lachmann:LL:castra decem annorum, et Ciconum manus, Ismara capta
+Muller:LL:castra decem annorum, et Ciconum Mars, Ismara capta
+Baehrens:LL:castra decem annorum, et Ciconum domus, Ismara capta
+Wittig:LL:castra decem annorum, et Ciconum mox, Ismara capta
+Palmer:LL:castra decem annorum, et Ciconum enses, Ismara capta
+van Eldik:LL:castra decem annorum, et Ciconum clade, Ismara capta
+3.13.8
+LL:cinnamon et multi pistor odoris Arabs.
+Heyworth:cinnamon et culti messor odoris Arabs.
+Fontein:cinnamon et multi cultor odoris Arabs.
+Postgate:cinnamon et multi carptor odoris Arabs.
+3.13.11
+LL:haec etiam clausas expugnant arma pudicas quaeque gerunt fastus, Icarioti, tuos.
+Heyworth:haec etiam clausas expugnant arma puellas quaeque gerunt fastus, Icarioti, tuos.
+Unger:haec etiam vittas expugnant arma pudicas quaeque gerunt fastus, Icarioti, tuos.
+Muller:haec etiam clausas nymphas arma pudicas quaeque gerunt fastus, Icarioti, tuos.
+3.13.18
+Heyworth:namque ubi mortifero iactast fax ultima lecto, uxorum fusis stat pia turba comis, et certamen habent leti, quae viva sequatur coniugium
+Broekhuyzen:namque ubi mortifero iactast fax ultima lecto, uxorum positis stat pia turba comis, et certamen habent leti, quae viva sequatur coniugium
+Bonazzi:namque ubi mortifero iactast fax ultima lecto, uxorum passis stat pia turba comis, et certamen habent leti, quae viva sequatur coniugium
+Francius:namque ubi mortifero iactast fax ultima lecto, uxorum tonsis stat pia turba comis, et certamen habent leti, quae viva sequatur coniugium
+3.13.25-26
+Heyworth:felix agrestum quondam pacata iuventus, divitiae quorum messis et arbor erant
+Garrod:felix agrestum quondam pagana iuventus, divitiae quorum messis et arbor erant
+Conelissen:felix agrestum quondam barbata iuventus, divitiae quorum messis et arbor erant
+Paldam:felix agrestum quondam incorrupta iuventus, divitiae quorum messis et arbor erant
+Bonazzi:felix agrestum quondam pacata iuventus, divitiae quorum census et arbor erant
+3.13.32
+Heyworth:aut variam plumae versicoloris avem.
+Heinsius:aut variam plumae raricoloris avem.
+Ellis:aut variam plumae vitricoloris avem.
+Bonazzi:aut variam plumae iricoloris avem.
+3.13.50
+Heyworth:aurum lex sequitur, mox sine lege pudor.
+Heinsius:aurum lex sequitur, mox sine lege furor.
+3.13.64
+Heyworth:fallacem Troiae serpere dixit equum.
+Wakker:allacem Troiae pergere dixit equum.
+Heinsius:fallacem Troiae surgere dixit equum.
+3.13.65-66
+Heyworth:ille furor patriae fuit utilis, ille parenti experta est veros irrita lingua deos.
+Barber:ille furor patriae foret utilis, ille parenti experta est veros irrita lingua deos.
+Baehrens:ille furor patriae vilis fuit, ille parenti experta est veros irrita lingua deos.
+Fontein:ille furor patriae vilis fuit, ille parenti experta est veros diruta lingua deos.
+3.14.4
+Heyworth:quod non infames exercet corpore ludos inter luctantes nuda puella viros
+Bonazzi:quod non infames exsertat corpore ludos inter luctantes nuda puella viros
+Richards:quod non infames exercet corpore luctas inter luctantes nuda puella viros
+RMHenry:quod non infames exercet corporis artes inter luctantes nuda puella viros
+3.14.8
+Heyworth:et patitur duro vulnera pancratio
+Heinsius:et patitur crudo vulnera pancratio
+3.14.9
+Heyworth:nunc ligat ad caestum gaudentia bracchia loris, missile nunc disci pondus in orbe rotat
+Burman:nunc ligat ad caestum splendentia bracchia loris, missile nunc disci pondus in orbe rotat
+Gruter:nunc ligat ad caestum candentia bracchia loris, missile nunc disci pondus in orbe rotat
+Dorville:nunc ligat ad caestum flaventia bracchia loris, missile nunc disci pondus in orbe rotat
+3.14.14
+LL:qualis Amazonidum nudatis bellica mammis Thermodontiacis turba lavatur aquis
+Heyworth:qualis Amazonidum nudatis bellica mammis Thermodontiacis turma vagatur aquis
+Heinsius:qualis Amazonidum nudatis bellica mammis Thermodontiacis turma vagatur equis
+3.14.17
+Heyworth:qualis et Eurotae Pollux et Castor harenis, hic victor pugnis, ille futurus equis
+Baehrens:talis et Eurotae Pollux et Castor harenis, hic victor pugnis, ille futurus equis
+Francius:qualis et Eurotae Pollux et Castor ad undas, hic victor pugnis, ille futurus equis
+3.14.19
+Heyworth:inter quos Helene nudis capere arma papillis fertur nec fratres erubuisse deos.
+Baehrens:inter quos Helene fluidis versata capillis fertur nec fratres erubuisse deos.
+Housman:inter quos Helene nudis armata capillis fertur nec fratres erubuisse deos.
+3.14.21
+Heyworth:lex igitur Spartana vetat secedere amantes
+Bonazzi:lex igitur Spartana vetat decedere amantes
+3.14.25
+Heyworth:nullo praemisso de rebus tute loquaris
+Heinsius:nulli impermissum de rebus tute loquaris 
+Fruter:nullo promisso de rebus tute loquaris
+3.14.31
+LL:nec quae sit facies nec quae sint verba rogandi 
+Heyworth::nec quae sit faciles nec quae dent verba rogandi
+Bonazzi::nec quae sint saties nec quae sint verba rogandi
+Heinsius::nec quae sint partes nec quae sint verba rogandi
+Burman::nec quae sit facies nec quae sit acerba roganti
+Markland::nec quae sit facies nec quae sit vera rogando
+3.14.33
+Heyworth:quod si iura fores pugnasque imitata Laconum
+Fontein:quod si iura fores luctasque imitata Laconum
+Otto:quod si iura fores moresque imitata Laconum
+Bonazzi:quod si iura fores pugnasque iniuita Laconum
+3.15.3
+Heyworth:ut mihi praetexti pudor est relevatus amictus
+Scaliger:ut mihi praetextae pudor exuelatus amictu
+Heinsius:ut mihi praetexto pudor est ablatus amictu
+Santen:ut mihi praetexti pudor exsinuatus amictu 
+Gebhard:ut mihi praetexti pudor est ablatus amictus
+Sandstrom:ut mihi praetexti pudor est laxatus amictus
+Rothstein:ut mihi praetexti pudor est mutatus amictus
+Damste:ut mihi praetexti pudor est exutus amictus
+Richmond:ut mihi praetexti pudor est violatus amictus
+Barber:ut mihi praetexti pudor est amotus amictus
+3.15.8
+Heyworth:vix memini nobis verba coisse decem.
+Heinsius:vix memini nobis verba fuisse decem.
+Bonazzi:vix memini nobis verba conisse decem.
+3.15.13
+Heyworth:a quotiens pulchros vulsit regina capillos, molliaque immitis fixit in ora manus
+Volpi:a quotiens pulchros traxit regina capillos, molliaque immitis fixit in ora manus
+Heinsius:a quotiens pulchros carpsit regina capillos, molliaque immitis fixit in ora manus
+3.15.17
+Heyworth:saepe illam immundis passa est habitare tenebris
+Heinsius:saepe illa immundis passa est cubitare tenebris
+Muller:saepe illam immundis passa est latitare tenebris
+3.15.40
+LL:ducitur in multis mortem habitura locis.
+Heyworth:ducitur in multis mortem obitura locis.
+Heinsius:ducitur incultis mortem habitura locis.
+3.15.43
+Heyworth:at tu non meritam parcas vexare Lycinnam
+Bonazzi:aut tu non, merita, precor irascare Lycinna
+3.15.45
+Heyworth:fabula nulla tuas de nobis concitet aures
+Markland:fabula nulla tuas de nobis concitet iras;
+3.16.9
+Heyworth:peccaram semel, et totum sum pulsus in annum
+Palmer:peccaram semel, et totum sum tusus in annum
+Richmond:peccaram semel, et totum sum tortus in annum
+Phillimore:peccaram semel, et totum sum carptus in annum
+Barber:peccaram semel, et totum sum parctus in annum:
+3.16.16
+LL:ipse Amor accensas praecutit ante faces
+Heyworth: ipse Amor accensas concutit ante faces
+Heinsius: ipse Amor accensas excutit ante faces
+Francius: ipse Amor accensas concutit ante faces
+3.16.19
+Heyworth:sanguine tam parvo quis enim spargatur amantis 
+Dorville:anguine tam pravo quis enim spargatur amantis 
+Vivona:anguine tam sacro quis enim spargatur amantis 
+Fischer:anguine tam puro quis enim spargatur amantis 
+3.17.2
+Heyworth:da mihi pacato vela secunda, pater.
+Broekhuyzen: da mihi bacchato vela secunda, pater.
+Burman: da mihi lymphato vela secunda, pater.
+Postgate: da mihi placato vela secunda, pater.
+3.17.3
+Heyworth:tu potes insanae Veneris compescere flatus
+Gebhard:tu potes insanae Veneris componere fastus
+Broekhuyzen:tu potes insanae Veneris compescere fluctus
+Palmer:tu potes insanae Veneris compescere flammam
+3.17.24
+LL:vesanumque nova nequiquam in vite Lycurgum, Pentheos in triplicis funera rapta greges
+Heyworth:vesanumque nova nequiquam in vite Lycurgum, Pentheos in triplicis funera grata gregi
+Scaliger:vesanumque nova nequiquam in vite Lycurgum, Pentheos in triplicis funera rapta gregi
+Heinsius:vesanumque nova nequiquam in vite Lycurgum, Pentheos in triplicis funera carpta gregi
+3.17.32
+Heyworth:levis odorato cervix manabit olivo, et feries nudos veste fluente pedes
+Heinsius:levis odorato cervix manabit olivo, et feries udos veste fluente pedes
+3.18.1
+LL:Clausus ab umbroso qua tundit pontus Averno
+Heyworth:Clausus ab umbroso qua ludit pontus Averno
+Scaliger:Plausus ab umbroso qua ludit pontus Averno
+Heinsius:Obvius ab umbroso qua ludit pontus Averno
+Barber:Clausus ab umbroso qua tendit pontus Averno
+3.18.24
+Heyworth: scandenda est torvi publica cumba senis
+Palmier: scandenda est curvi publica cumba senis
+Palmer:scandenda est orci publica cumba semel
+3.19.4
+Heyworth:vos, ubi contempti rupistis frena pudoris, nescitis captae mentis habere modum.
+Heinsius:vos, ubi contempti rupistis frena pudoris, nescitis castae mentis habere modum.
+Rossberg:vos, ubi contempti rupistis frena pudoris, nescitis cupidae mentis habere modum.
+Richmond:vos, ubi contempti rupistis frena pudoris, nescitis coeptae mentis habere modum.
+3.19.9
+Heyworth:quam possit vestros quisquam reprehendere cursus et rabidae stimulos frangere nequitiae.
+Volscus:quam possit vestros quisquam deprendere cursus et rabidae stimulos frangere nequitiae.
+Fontein:quam possit vestros quisquam restringere cursus et rabidae stimulos frangere nequitiae.
+3.20.6
+Heyworth:forsitan ille alio pectus amore terrat
+Heinsius:forsitan ille alio tractus amore perit
+Corrnelissen:forsitan ille alio captus amore furit
+3.20.15
+Heyworth:foedera sunt ponenda prius signandaque iura
+Heinsius:foedera sunt condenda prius signandaque iura
+Burman:foedera sunt pangenda prius signandaque iura
+3.20.17
+Heyworth:haec Amor ipse suo constringet pignora signo
+Fontein:haec Amor ipse suo confirmet pignora signo
+3.20.22
+Heyworth:non habet ultores nox vigilata deos
+Heinsius:non habet ultores nox violata deos
+3.20.30
+Heyworth:semper amet, fructu semper amoris egens
+Bonazzi:semper amet, fructu semper amoris havens
+3.21.18
+Heyworth:cogar et undisonos nunc prece adire deos
+Markland:cogar et undosos nunc prece adire deos
+Rossberg:cogar et undicolas nunc prece adire deos
+3.21.28
+Heyworth:libaboque tuos, munde Menandre, sales
+Fontein:miraborque tuos, culte Menandre, sales
+Baehrens:ridebove tuos, culte Menandre, sales
+JBBury:libraboque tuos, culte Menandre, sales
+3.22.28
+Heyworth:Itala portentis nec furit unda novis
+Pucci:Itala portentis nec fluit unda novis
+Auratus:Itala portentis nec facit unda novis
+Havet:Itala portentis nec scatit unda novis
+3.23.17
+Heyworth:et quaecumque volens reperit non stulta puella
+Guyet:et quaecumque solens reperit non stulta puella
+Heinsius:et quaecumque doli reperit non stulta puella
+Baehrens:et quaecumque calens reperit non stulta puella
+Bonazzi:et quaecumque donans reperit non stulta puella
+RMHenry:et quaecumque datans reperit non stulta puella
+3.24.19
+Heyworth:Mens Bona, si qua dea es, tua me in sacraria dono
+Heinsius:Mens Bona, si qua dea es, tua me in sacraria condo
+Markland:Mens Bona, si qua dea es, tua me in sacraria pono
+4.1.28
+Heyworth:miscebant usta proelia nuda sude
+de Rooy:miscebant usta proelia cruda sude
+Cornelissen:miscebant usta proelia tuta sude
+Baehrens:miscebant usta proelia ficta sude
+4.1.46
+Heyworth:venit et ipsa, sui Caesaris arma, Venus
+Heinsius:duxit et ipsa, sui Caesaris arma, Venus
+Schippers:vidit et ipsa, sui Caesaris arma, Venus
+Muller:auxit et ipsa, sui Caesaris arma, Venus
+4.1.70
+Heyworth:has meus ad metas sudet oportet equus
+Heinsius:has meus ad metas tendat oportet equus
+4.1.135
+Heyworth:at tu finge elegos, fallax opus haec tua castra
+Heinsiu:at tu finge elegos, pellax opus haec tua castra
+Broekhuyzen:at tu finge elegos, felix opus haec tua castra
+Cornelissen:at tu finge elegos, sollers opus haec tua castra
+4.2.9
+Heyworth:at postquam ille suis stagnum concessit alumnis
+Annius:at tandem ille suis stagnum concessit alumnis
+Heinsius:at campum ille suis stagnum concessit alumnis
+Ayrmann:at rursum ille suis stagnum concessit alumnis
+4.2.20
+Heyworth:de se narranti tu modo crede deo
+Gebhard:de se veranti tu modo crede deo
+4.2.42
+Heyworth:hortorum in manibus dona probata meis?
+Lutjohann:hortorum in manibus dona locata meis?
+4.2.58
+Heyworth:non moror haec spatiis ultima creta meis
+Perreius:non moror haec spatiis ultima cera meis
+Pocchus:non moror haec spatiis ultima cura meis
+4.2.62
+Heyworth:tellus artifices ne terat osca manus
+Livineius:tellus artifices ne premat osca manus
+4.3.13
+Heyworth:quae mihi deductae fax omen praetulit illa
+Livineius:quae mihi deductae fax lumen praetulit illa
+4.3.41
+Heyworth:assidet una soror curis et pallida nutrix
+Livineius:assidet una soror curis et callida nutrix
+4.3.42
+Heyworth:peierat hiberni terporis esse moras
+livineius:deierat hiberni terporis esse moras
+4.3.64
+Heyworth:raptave odorato carbasa lina duci
+Bonazzi:raptave odorato carbasa viva duci
+Palmer:raptave odorato carbasa picta duci
+Bailey:raptave odorato carbasa laxa duci
+4.4.40
+Heyworth:candidaque in saeuos inguina uersa canes
+Heinsius:candidaque in foedos inguina uersa canis
+Burman:candidaque in taetros inguina uersa canis
+Polster:candidaque in senos inguina uersa canis
+4.4.47
+Heyworth:cras, ut rumor ait, tota potabitur urbe
+Huleatt:cras, ut rumor ait, tota purgabitur urbe
+Palmer:cras, ut rumor ait, tota cessabitur urbe
+Housman:cras, ut rumor ait, tota pigrabitur urbe
+Senger:cras, ut rumor ait, tota fumabitur urbe
+Bonazzi:cras, ut rumor ait, tota privabitur urbe
+4.4.76
+Heyworth:cum pagana madent fercula diuitiis
+Canter:cum pagana madent fercula deliciis
+Heinsius:cum pagana madent fercula fictilibus
+Postgate:cum pagana madent fercula lautitiis
+4.4.94
+Heyworth:o uigil, iniustae praemia sortis habes
+Peerlkamp:o uigil, iniustae praemia laudis habes
+Baehrens:o uigil, iniustae praemia sordis habes
+Ribbeck:o uigil, iniustae praemia fontis habes
+4.4.50
+LL:quippe tacentis fallaci celat limite semper aquas
+Heyworth:quippe lacentes fallaci celat limite semper aquas
+Fontein:quippe calentes fallaci celat limite semper aquas
+Baehrens:quippe iacentes fallaci celat limite semper aquas
+4.5.62
+Heyworth:uidi ego odorati uictura rosaria Paesti sub matutino cocta iacere Noto
+Wakker:uidi ego odorati uictura rosaria Paesti sub matutino cuncta iacere Noto
+4.5.72
+Heyworth:exsequiae fuerint rari furtiua capilli uincula et immundo pallida mitra situ
+Heinsius:exsequiae fuerint rari furtiua capilli uincula et immundo squalida mitra situ
+4.5.74
+LL:cum fallenda meo pollice clatra forent
+Heyworth:cum fallenda meo pollice clausta forent
+Scaliger:cum fallenda meo pollice clustra forent.
+4.6.56
+Heyworth:proxima post arcus Caesaris hasta fuit
+Heinsius:proxima post arcus Caesaris hasta furit
+4.6.81
+LL:siue aliquid pharetris Augustus parcet Eois
+Heyworth:siue aequus pharetris Augustus parcet Eois
+Baehrens:siue almus pharetris Augustus parcet Eois
+4.7.2
+LL:luridaque euictos effugit umbra rogos
+Heyworth:luridaque extinctos effugit umbra rogos
+Heinsius:luridaque exstructos effugit umbra rogos
+Hailer:luridaque erectos effugit umbra rogos
+4.7.38
+Heyworth:dicet damnatas ignea testa manus
+Scaliger:ducet damnatas ignea testa manus
+Guyet:siccet damnatas ignea testa manus
+Heinsius:signet damnatas ignea testa manus
+Baehrens:vincet damnatas ignea testa manus
+4.7.51
+Heyworth:iuro ego Fatorum nulli reuolubile carmen
+Heinsius:iuro ego Fatorum nulli reuolubile stament
+Postgate:iuro ego Fatorum nulli reuolubile nemen
+4.8.37
+Heyworth:Lygdamus ad cyathos, uitrique aestiua supellex et Methymnaei grata saliua meri
+Baehrens:Lygdamus ad cyathos, craterque aestiua supellex et Methymnaei grata saliua meri
+4.8.59
+LL:lumina sopitos turbant elata Quiritis
+Heyworth:crimina sopitos turbant elata Quiritis
+Baehrens:iurgia sopitos turbant elata Quiritis
+4.8.64
+Heyworth:et mea peruersa sauciat ora manu
+Guyet:et mea praeversa sauciat ora manu
+Heinsius:et mea vesana sauciat ora manu
+Burman:et mea formosa sauciat ora manu
+4.9.3
+Heyworth:uenit ad inuictos pecorosa Palatia montes
+Heinsius:uenit in euictos pecorosa Palatia montis
+Postgate:uenit ad intactos pecorosa Palatia montis
+Lachmann:uenit ad intonsos pecorosa Palatia montis
+CFHeinrich:uenit ad invisos pecorosa Palatia montis
+Baehrens:uenit ad incultos pecorosa Palatia montis
+4.9.40
+LL:et numquam ad uastas irrita tela feras
+Heyworth:et numquam ad notas irrita tela feras
+Vossianus:et numquam ad varias irrita tela feras
+Heinsius:et numquam ad stratas irrita tela feras
+Santen:et numquam ad nocuas irrita tela feras
+Hertzberg:et numquam ad tantas irrita tela feras
+Senger:et numquam ad iussas irrita tela feras
+4.10.5
+Heyworth:imbuis exemplum primae tu, Romule, palmae huius
+Baehrens:inicis exemplum primae tu, Romule, palmae huius
+Rossberg:inclitus exemplum primae tu, Romule, palmae huius
+4.10.10
+Heyworth:Acron Herculeus Caenina ductor ab arce, Roma, tuis quondam finibus horror erat
+Fontein:Acron Herculeus Caenina ductor ab arce, Roma, tuis quondam civibus horror erat
+4.10.29
+Heyworth:nunc intra muros pastoris bucina lenti cantat
+Itali:nunc intra muros pastoris bucina laeti cantat
+4.11.4
+Heyworth:non exorando stant adamante uiae
+Peerlkamp:non exorando stant adamante serae
+Heinsius:non exorando stant adamante fores
+Kuhlewein:non exorando stant adamante vice
+4.11.12
+Heyworth:profuit aut famae pignora tanta meae
+Heinsius:profuit aut formae pignora tanta meae
+Boot:profuit aut animae pignora tanta meae
+4.11.38
+Heyworth:sub quorum titulis, Africa, tunsa iaces
+Munro:sub quorum titulis, Africa, tonsa iaces
+Scaliger:sub quorum titulis, Africa, tanta iaces
+Werburg:sub quorum titulis, Africa, tosta iaces
+4.11.41
+Heyworth:me neque censurae legem mollisse nec ulla
+Heinsius:me neque censurae legem soluisse nec ulla
+Fea:me neque censurae legem metuisse nec ulla
+Peerlkamp:me neque censurae legem movisse nec ulla
+4.11.102
+Heyworth:cuius honoratis ossa uehantur auis
+Heinsius:cuius honoratis ossa fruantur auis
+Burman:cuius honoratis ossa petantur auis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
